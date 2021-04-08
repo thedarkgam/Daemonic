@@ -15,8 +15,7 @@
     "daemonic:empty_siphon_dummy",
     "daemonic:soul_leech",
     "daemonic:soul_leech_dummy",
-    "daemonic:soul_leech_dummy_2",
-    "daemonic:fae"
+    "daemonic:soul_leech_dummy_2"
   ],
   "icon": "daemonic:cursed_soul",
   "order": 4,
